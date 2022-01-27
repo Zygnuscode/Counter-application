@@ -1,0 +1,36 @@
+body {
+    background-color: darkcyan;
+    text-align: center;
+    color: white;
+    font-family: verdana;
+    font-weight: bold;
+}
+
+
+h1 {
+    text-align: center;
+    margin-top: 20px;
+       
+}
+
+h2 {
+    font-weight: bold;
+    font-size: 50px;
+}
+button{
+    font-size:40px ;
+    margin-bottom: 5px;
+    padding-right: 10px;
+    padding-bottom: 10px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    width: 200px;
+    background: rgb(125, 85, 163);
+    color: white;
+    border-radius: 10px;
+}
+#save-btn {
+    background-color: rgb(154, 236, 236);
+    color: black;
+}
+
